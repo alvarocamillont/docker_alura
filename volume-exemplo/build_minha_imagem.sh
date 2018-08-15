@@ -1,1 +1,1 @@
-docker build -f dockerfile -t alvarocneto/node .
+docker build -f dockerfile -t alcisko/node .
